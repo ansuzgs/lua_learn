@@ -1,4 +1,4 @@
-# Learning Lua
+# :mortar_board: Learning Lua
 
 As I am trying to learn Lua, I decided to ask ChatGPT for a roadmap and some materials. My plan is to follow ChatGPT approach and see how much Lua we can learn in 3 months :rocket:
 
@@ -57,7 +57,7 @@ As I am trying to learn Lua, I decided to ask ChatGPT for a roadmap and some mat
 - Complete your project, ensuring it incorporates advanced Lua features and follows best practices.
 - Participate in code reviews or discussions within the Lua community to gain feedback and insights.
 
-## Resources
+## :books: Resources
 
 Certainly! Here's a breakdown of recommended resources for each learning block:
 
@@ -100,7 +100,7 @@ Certainly! Here's a breakdown of recommended resources for each learning block:
 - **Resource:** Lua Mailing List - Subscribe to Lua mailing lists to engage with the community and ask questions.
 - **Resource:** Lua.org - [Resources](https://www.lua.org/resources.html) - Additional resources such as books, tutorials, and community links.
 
-## Projects
+## :construction: Projects
 
 Certainly! Here are project ideas for each block of the roadmap, designed to reinforce the concepts and skills you'll be developing as you progress in your Lua learning journey.
 
