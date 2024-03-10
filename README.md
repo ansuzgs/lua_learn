@@ -2,6 +2,8 @@
 
 As I am trying to learn Lua, I decided to ask ChatGPT for a roadmap and some materials. My plan is to follow ChatGPT approach and see how much Lua we can learn in 3 months :rocket:
 
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
 ## :calendar: Roadmap
 
 ### Month 1: Basics and Foundation
