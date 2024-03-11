@@ -2,7 +2,7 @@
 
 As I am trying to learn Lua, I decided to ask ChatGPT for a roadmap and some materials. My plan is to follow ChatGPT approach and see how much Lua we can learn in 3 months :rocket:
 
-As I am also following the "Retos de programacion" from @MoureDev, the idea is to do the exercises in Lua to practise.
+At the same time, I am also following the "Retos de programacion" from @MoureDev, so the idea is to do the exercises in Lua to get some practise.
 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
