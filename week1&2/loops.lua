@@ -34,7 +34,7 @@ for i = 0, 5, 1 do
 end
 
 -- break statement
-print
+print("Break statement")
 for i = 0, 10, 1 do
     if (i > 5) then
         break
