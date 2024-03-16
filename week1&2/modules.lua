@@ -12,7 +12,6 @@
 -- local formatter = require "printFormatter"
 -- formatter.simpleFormat("test")
 --]]
-
 -- Method 3
 --[[
 -- require "printFormatter"
